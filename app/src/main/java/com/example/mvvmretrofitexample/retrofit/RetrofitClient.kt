@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
 
-    const val MainServer = "http://api.drfriday.in/api/user/"
+    const val MainServer = "https://howtodoandroid.com/" // http://api.drfriday.in/api/user/
 
     const val ImageMainServer = "http://api.drfriday.in/";
 
