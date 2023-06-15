@@ -9,7 +9,9 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
 
-    const val MainServer = "https://howtodoandroid.com/" // http://api.drfriday.in/api/user/
+    const val MainServer = "https://api.openweathermap.org/data/2.5/"
+
+    // const val MainServer = "https://howtodoandroid.com/" // http://api.drfriday.in/api/user/
 
     const val ImageMainServer = "http://api.drfriday.in/";
 
